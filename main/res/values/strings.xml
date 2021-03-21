@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+
+
+    <!--  first_activity.xml    -->
+    <string name="Text_view_fill_out_the_form">Please fill out the following form!</string>
+    <string name="Text_view_first_name">Type your First Name!</string>
+    <string name="Text_view_last_name">Type your Last Name!</string>
+    <string name="Text_view_age">Type your Age!</string>
+    <string name="Text_view_4">Type the name you want to search for in database!</string>
+
+    <string name="Text_view_first_name_error">Error!Missing First Name!</string>
+    <string name="Text_view_age_error">Error!Missing Age!</string>
+    <string name="Text_view_last_name_error">Error!Missing Last Name!</string>
+
+
+    <string name="button_label_1">Save given data to database!</string>
+    <string name="button_label_2">Click here to go to 2nd Activity!</string>
+
+    <!--  second_activity.xml    -->
+    <string name="Text_view_db_result">These are the results from db !</string>
+    <string name="button_go_to_first_activity">Back</string>
+
+    <!--  FirstActivity.java    -->
+    <string name="show_blank">                        </string>
+</resources>
