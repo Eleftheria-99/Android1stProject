@@ -15,4 +15,6 @@ The user can also enter his first name and then the app will search into the dat
 ![1stb](https://user-images.githubusercontent.com/58575584/112336306-463c5a00-8cbd-11eb-8954-4673f30f3343.JPG)
 
 If yes, then in the second Activity the user can see all the results.
+
+
 ![2nd](https://user-images.githubusercontent.com/58575584/112336321-49cfe100-8cbd-11eb-87a5-b792d38bf000.JPG)
